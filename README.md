@@ -14,10 +14,8 @@ I intend to approach this project like a product manager would, starting with a 
 * Server: Express.js and Node.js. 
 * Multilingual, using [react-intl](https://www.npmjs.com/package/react-intl) library for internationalization, and AI translations
 * Using free [n8n](https://n8n.io/features/) workflow automation tool
+* Store data in MySQL database.
 
-
-Stretch goal:
-* Migrate my data from the built-in JSON models to a MySQL database.
 
 ## Credits
 
